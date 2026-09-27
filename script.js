@@ -13,7 +13,7 @@ function calculate() {
         return;
     }
 
-    let totalPoints = 0;
+    let totalPoints = 2;
     let totalCredits = 0;
 
     // Calculate weighted sum
